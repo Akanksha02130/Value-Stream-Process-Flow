@@ -27,4 +27,3 @@ Checkout Process:
 
 Proposed Solution:
 -
-- [Group 1 Ideal State Value Map.pdf](https://github.com/Akanksha02130/Value-Stream-Process-Flow/files/12641599/Group.1.Ideal.State.Value.Map.pdf)
