@@ -27,3 +27,14 @@ Checkout Process:
 
 Proposed Solution:
 -
+![Screenshot 2023-09-16 at 5 32 51 PM](https://github.com/Akanksha02130/Value-Stream-Process-Flow/assets/124122163/247198cc-4567-43bf-b059-eebae76e3d39)
+
+Legend:
+-
+- VA: Value Added
+- NVA: Non-Value Added
+- MAs: Medical Assistants
+- PCPs: Primary Care Physicians
+- RN: Registered Nurse
+- PA: Physician's Assistant
+
