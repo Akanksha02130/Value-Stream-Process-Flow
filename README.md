@@ -24,3 +24,7 @@ Checkout Process:
 -
 - Problem: The checkout process, while necessary for billing and addressing patient queries, is not streamlined and may result in delays.
 - Objective: Improve the efficiency of the checkout process to minimize delays and ensure a smooth departure for patients.
+
+Proposed Solution:
+-
+- [Group 1 Ideal State Value Map.pdf](https://github.com/Akanksha02130/Value-Stream-Process-Flow/files/12641599/Group.1.Ideal.State.Value.Map.pdf)
